@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Maulana_UTS</string>
+    <string name="iphone13ProMax">Iphone 13 PRO MAX</string>
+    <string name="iphone13Pro">Iphone 13 Pro</string>
+    <string name="iphone13">Iphone 13</string>
+    <string name="iphone13Mini">Iphone 13 Mini</string>
+    <string name="iphone12ProMax">Iphone 12 Pro Max</string>
+    <string name="iphone12Pro">Iphone 12 Pro</string>
+    <string name="iphone12">Iphone 12</string>
+    <string name="iphone12Mini">Iphone 12 Mini</string>
+    <string name="iphone11ProMax">Iphone 11 Pro Max</string>
+    <string name="iphone11Pro">Iphone 11 Pro</string>
+    <string name="iphone11">Iphone 11</string>
+</resources>
